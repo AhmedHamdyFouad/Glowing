@@ -5,10 +5,10 @@
   <br />
   <br />
 
-  <h2 align="center">Kitter - Petshop eCommerce Website</h2>
+  <h2 align="center">Glowing - Petshop eCommerce Website</h2>
 
-Kitter is a fully responsive petshop ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+Glowing is a fully responsive petshop ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 <br />
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://ahmedhamdyfouad.github.io/Glowing/"><strong>➥ Live Demo</strong></a>
 
 </div>
